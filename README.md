@@ -13,7 +13,7 @@ MATLAB and Python code corresponding to the manuscript 'Statistical Estimates of
 
 ### Code Overview
    
-|                                           |                                                                                           |
+| File                                      | Description                                                                               |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------- |
 | 1. Crater_nRadii_RAMatrix_Capture.m       | Extracts Rock Abundance swaths and values corresponding to a given crater/crater database |
 | 2. showregRA.m                            | Function used above to capture specified extent(s) of Diviner maps                        |
