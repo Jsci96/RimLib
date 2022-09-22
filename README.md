@@ -7,7 +7,8 @@ MATLAB and Python code corresponding to the manuscript 'Statistical Estimates of
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/43011604/191855862-48be9576-232f-45b4-aea7-37a5c623f57e.png" height="100">
-  <>
+  
+  
   <img src="https://user-images.githubusercontent.com/43011604/191856362-45fdf5ab-52ea-4c5a-b3be-29968f01eab5.png" height="100">
  </p>
 
