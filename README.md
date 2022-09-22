@@ -11,7 +11,10 @@ MATLAB and Python code corresponding to the manuscript 'Statistical Estimates of
   <img src="https://user-images.githubusercontent.com/43011604/191856362-45fdf5ab-52ea-4c5a-b3be-29968f01eab5.png" height="100">
  </p>
 
-## Documentation
--
+### Code Overview
 
-Text goes here.
+| 1. Crater_nRadii_RAMatrix_Capture.m       | Extracts Rock Abundance swaths and values corresponding to a given crater/crater database |
+| 2. showregRA.m                            | Function used above to capture specified extent(s) of Diviner maps |
+| 3. Regolith_Plotting.m                    | All plots corresponding to manuscript |
+| 4. Plotting.ipynb                         | Plot in manuscript Figure 5 |
+| 5. Single_Cold_Spot_Crater_Capture.m      | Example capture of a cold spot crater corresponding to manuscript Figure 2 |
