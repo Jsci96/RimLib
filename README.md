@@ -13,10 +13,10 @@ MATLAB and Python code corresponding to the manuscript 'Statistical Estimates of
 
 ### Code Overview
    
-| File                                      | Description                                                                               |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Crater_nRadii_RAMatrix_Capture.m          | Extracts Rock Abundance swaths and values corresponding to a given crater/crater database |
-| showregRA.m                               | Function used above to capture specified extent(s) of Diviner maps                        |
-| Regolith_Plotting.m                       | All plots corresponding to manuscript                                                     |
-| Plotting.ipynb                            | Plot in manuscript Figure 5                                                               |
-| Single_Cold_Spot_Crater_Capture.m         | Example capture of a cold spot crater corresponding to manuscript Figure 2                |
+| File                                          | Description                                                                               |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [Crater_nRadii_RAMatrix_Capture.m](https://github.com/Jsci96/Lunar-Regolith-Thickness/blob/main/Crater_nRadii_RAMatrix_Capture.m)          | Extracts Rock Abundance swaths and values corresponding to a given crater/crater database |
+| [showregRA.m]()                               | Function used above to capture specified extent(s) of Diviner maps                        |
+| [Regolith_Plotting.m]()                       | All plots corresponding to manuscript                                                     |
+| [Plotting.ipynb]()                            | Plot in manuscript Figure 5                                                               |
+| [Single_Cold_Spot_Crater_Capture.m]()         | Example capture of a cold spot crater corresponding to manuscript Figure 2                |
